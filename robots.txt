@@ -1,4 +1,4 @@
 User-agent: *
 Disallow:
 
-Sitemap: https://www.cise.ufl.edu/~traynor//sitemap.xml
+Sitemap: www.cise.ufl.edu/# the base hostname & protocol for your site~traynor//sitemap.xml
