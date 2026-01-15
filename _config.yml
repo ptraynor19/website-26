@@ -7,19 +7,17 @@ first_name: Patrick
 middle_name: G.
 last_name: Traynor
 contact_note: >
-  You can even add a little note about which of these is the best way to reach you.
+  Contact via email (please note that I get a LOT of email).
 description: > # the ">" symbol means to ignore newlines until "footer_text:"
-  A simple, whitespace theme for academics. Based on [*folio](https://github.com/bogoli/-folio) design.
+  Homepage for Patrick G. Traynor
 footer_text: >
-  Powered by <a href="https://jekyllrb.com/" target="_blank">Jekyll</a> with <a href="https://github.com/alshedivat/al-folio">al-folio</a> theme.
-  Hosted by <a href="https://pages.github.com/" target="_blank">GitHub Pages</a>.
-  Photos from <a href="https://unsplash.com" target="_blank">Unsplash</a>.
-keywords: jekyll, jekyll-theme, academic-website, portfolio-website # add your own keywords or leave empty
+
+keywords: security, networking, systems# add your own keywords or leave empty
 lang: en # the language of your site (for example: en, fr, cn, ru, etc.)
 icon: ⚛️ # the emoji used as the favicon (alternatively, provide image name in /assets/img/)
 
-url: https://www.cise.ufl.edu/~traynor/ # the base hostname & protocol for your site
-baseurl: # the subpath of your site, e.g. /blog/. Leave blank for root
+url: www.cise.ufl.edu/# the base hostname & protocol for your site
+baseurl: ~traynor/ # the subpath of your site, e.g. /blog/. Leave blank for root. If running locally, remove this, but you MUST put this back before pushing to the website.
 last_updated: false # set to true if you want to display last updated in the footer
 impressum_path: # set to path to include impressum link in the footer, use the same path as permalink in a page, helps to conform with EU GDPR
 back_to_top: true # set to false to disable the back to top button
@@ -32,7 +30,7 @@ back_to_top: true # set to false to disable the back to top button
 repo_theme_light: default # https://github.com/anuraghazra/github-readme-stats/blob/master/themes/README.md
 repo_theme_dark: dark # https://github.com/anuraghazra/github-readme-stats/blob/master/themes/README.md
 repo_trophies:
-  enabled: true
+  enabled: false
   theme_light: flat # https://github.com/ryo-ma/github-profile-trophy
   theme_dark: gitdimmed # https://github.com/ryo-ma/github-profile-trophy
 
@@ -48,10 +46,10 @@ repo_trophies:
 
 navbar_fixed: true
 footer_fixed: true
-search_enabled: true
+search_enabled: false
 socials_in_search: true
 posts_in_search: true
-bib_search: true
+bib_search: false
 
 # Dimensions
 max_width: 930px
@@ -138,9 +136,13 @@ exclude:
   - INSTALL.md
   - LICENSE
   - lighthouse_results/
+  - _news/announcement_2.md
   - package.json
   - package-lock.json
   - _pages/about_einstein.md
+  - _pages/?_books.md
+  - _pages/cv.md
+  - _projects/?_project.md
   - purgecss.config.js
   - README.md
   - readme_preview/

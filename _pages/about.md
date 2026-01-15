@@ -31,11 +31,11 @@ research, and have co-founded three start-up companies (Skim Reaper,
 CryptoDrop and Pindrop Security). My team and I have also uncovered critical
 vulnerabilities in cellular and mobile networks, developed some of the 
 strongest detectors of deepfakes and protections for voice-driven systems, 
-and protected a wide range of other systems. Learn more about our work 
-[on my publications page](/publications/).
+and protected a wide range of other networked systems. Learn more about our 
+work [on my publications page](/publications/).
 
-I received a CAREER Award from the National Science Foundation in 2010, was
-named a Sloan Fellow in 2014, a Fellow for the Center for Financial 
-Inclusion at Accion in 2016 and a Kavli Fellow in 2017.
+I received a CAREER Award from the National Science Foundation in 2010, and 
+was named a Sloan Fellow in 2014, a Fellow for the Center for Financial 
+Inclusion at Accion in 2016, and a Kavli Fellow in 2017.
 
 

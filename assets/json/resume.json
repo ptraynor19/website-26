@@ -1,18 +1,17 @@
 {
   "basics": {
-    "name": "Albert Einstein",
-    "label": "Scientist",
+    "name": "Patrick G. Traynor",
+    "label": "John and Mary Lou Dasburg Preeminent Chair in Engineering",
     "image": "",
-    "email": "albert@einstein.de",
-    "phone": "(912) 123-4567",
-    "url": "https://alshedivat.github.io/al-folio/",
-    "summary": "A German-born theoretical physicist, widely ranked among the greatest and most influential scientists of all time",
+    "email": "traynor@ufl.edu",
+    "phone": "",
+    "url": "www.patricktraynor.org",
+    "summary": "A Computer Scientist with focuses on security, networking, and systems. ",
     "location": {
-      "address": "2712 Broadway St",
-      "postalCode": "CA 94115",
-      "city": "San Francisco",
-      "countryCode": "US",
-      "region": "California"
+      "address": "5400D Malachowsky Hall, 1889 Museum Rd,",
+      "postalCode": "FL 32610",
+      "city": "Gainesville",
+      "countryCode": "US"
     },
     "profiles": [
       {
