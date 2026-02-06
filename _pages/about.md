@@ -32,7 +32,7 @@ CryptoDrop and Pindrop Security). My team and I have also uncovered critical
 vulnerabilities in cellular and mobile networks, developed some of the 
 strongest detectors of deepfakes and protections for voice-driven systems, 
 and protected a wide range of other networked systems. Learn more about our 
-work [on my publications page](/publications/).
+work [on my publications page](publications/).
 
 I received a CAREER Award from the National Science Foundation in 2010, and 
 was named a Sloan Fellow in 2014, a Fellow for the Center for Financial 
