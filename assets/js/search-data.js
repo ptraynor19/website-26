@@ -35,13 +35,6 @@ ninja.data = [{
           title: 'We had two papers accepted to the 2026 IEEE Symposium on Security and...',
           description: "",
           section: "News",},{
-        id: 'social-cv',
-        title: 'CV',
-        section: 'Socials',
-        handler: () => {
-          window.open("/~traynor/assets/pdf/example_pdf.pdf", "_blank");
-        },
-      },{
         id: 'social-email',
         title: 'email',
         section: 'Socials',
