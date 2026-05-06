@@ -1,4 +1,4 @@
 User-agent: *
 Disallow:
 
-Sitemap: www.cise.ufl.edu/~traynor//sitemap.xml
+Sitemap: www.cise.ufl.edu/~traynor/sitemap.xml

@@ -34,6 +34,12 @@ ninja.data = [{
           section: "News",},{id: "news-we-had-two-papers-accepted-to-the-2026-ieee-symposium-on-security-and-privacy-these-papers-make-advances-in-fuzzing-stateful-systems-and-evaluating-ai-detectors-in-academic-writing",
           title: 'We had two papers accepted to the 2026 IEEE Symposium on Security and...',
           description: "",
+          section: "News",},{id: "news-we-had-a-paper-accepted-to-both-the-2026-acm-internet-measurement-conference-imc-in-partnership-with-colleagues-at-virginia-tech-and-uw-madison-and-the-2026-acm-secure-development-conference-secdev-in-partnership-with-colleagues-at-nc-state-these-papers-make-advances-in-cloud-and-cellular-core-security-respectively",
+          title: 'We had a paper accepted to both the 2026 ACM Internet Measurement Conference...',
+          description: "",
+          section: "News",},{id: "news-i-spoke-at-the-national-academies-of-sciences-engineering-and-medicine-standing-committee-meeting-related-to-social-security-administration-disability-determination-about-the-future-of-ai-and-fraud",
+          title: 'I spoke at the National Academies of Sciences, Engineering, and Medicine Standing Committee...',
+          description: "",
           section: "News",},{
         id: 'social-email',
         title: 'email',
